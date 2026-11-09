@@ -43,7 +43,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Esta es la parctica "
+            android:text="Segunda rama de practica "
             android:textColor="#625B70"
             android:textSize="18sp"
             android:gravity="center"
